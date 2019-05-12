@@ -1,0 +1,5 @@
+{
+"prefix": "+",
+"sahip": "282859880287698944",
+"token": "bilmiyorum",
+}
