@@ -1,5 +1,5 @@
 {
 "prefix": "+",
 "sahip": "282859880287698944",
-"token": "bilmiyorum",
+"token": "NTYxNTE1NTgwOTIyOTIwOTYx.XNhgpg.rTD-V2EWWH8lQNc5f6hd5uk5t7U",
 }
