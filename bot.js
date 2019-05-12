@@ -1674,5 +1674,4 @@ DiscordJS.Emoji.prototype.convertToString = function() {
 // Start Bot
 //---------------------------------------------------------------------
 
-Files.startBot();
 client.login(process.env.BOT_TOKEN);
